@@ -1,0 +1,34 @@
+#gameOverButton{
+    border: 2px solid black;
+    border-radius: 2%;
+    position: relative;
+    bottom: 50vh;
+    left: 40vw;
+    width: 15vw;
+    height: 5vh;
+    background-color: yellow;
+}
+
+#gameOverButton:hover{
+    background-color: white;
+}
+
+#restartButton{
+    border: 2px solid black;
+    border-radius: 2%;
+    position: relative;
+    bottom: 65vh;
+    left: 40vw;
+    width: 15vw;
+    height: 5vh;
+    background-color: yellow;
+}
+
+#restartButton:hover{
+    background-color: white;
+}
+
+#canvas{
+    position: relative;
+    left: 20%;
+}
